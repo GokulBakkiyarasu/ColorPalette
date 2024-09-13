@@ -35,7 +35,7 @@ const StyledRoot = styled("div")({
 
   [sizes.down("xs")]: {
     width: "100%",
-    height: "10%",
+    height: "5%",
   },
 });
 
