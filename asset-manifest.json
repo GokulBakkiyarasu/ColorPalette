@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ColorPalette/static/css/main.6adab589.css",
-    "main.js": "/ColorPalette/static/js/main.0cee2b47.js",
+    "main.js": "/ColorPalette/static/js/main.33340731.js",
     "static/media/bg.svg": "/ColorPalette/static/media/bg.c62ae5ea574e302965dd95063662a0a7.svg",
     "index.html": "/ColorPalette/index.html",
     "main.6adab589.css.map": "/ColorPalette/static/css/main.6adab589.css.map",
-    "main.0cee2b47.js.map": "/ColorPalette/static/js/main.0cee2b47.js.map"
+    "main.33340731.js.map": "/ColorPalette/static/js/main.33340731.js.map"
   },
   "entrypoints": [
     "static/css/main.6adab589.css",
-    "static/js/main.0cee2b47.js"
+    "static/js/main.33340731.js"
   ]
 }
